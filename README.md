@@ -1,3 +1,3 @@
 # Data_Quality_Observability_Hub_DM
 
-Desde os finais da primeira década deste século, o uso de dispositivos eletrónicos foi se aumentando e consequentemente milhares de dados começaram a ser gerados. Surge uma era em que a atenção aos dados foi se aumentando e estudos feitos sobre o objeto *dados* ampliaram-se.
+A partir do final da primeira década deste século, o uso de dispositivos eletrônicos vem aumentando significativamente, o que resultou na geração de uma imensa quantidade de dados. Iniciou-se, assim, uma era marcada pela crescente atenção dedicada aos dados e pela ampliação dos estudos voltados a esse novo objeto de investigação. Entrando assim na era industrial 5.0.
